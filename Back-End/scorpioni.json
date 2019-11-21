@@ -1,0 +1,64 @@
+{
+  "scorpions": [
+    {
+      "_id": "5dc184403c046871b40f6f21",
+      "mortale": true,
+      "costo_antidoto": "$2,421.74",
+      "immagine": "https://picsum.photos/200",
+      "minuti_per_morire": 29,
+      "colore": "brown",
+      "nome_scopritore": "Penelope",
+      "cognome_scopritore": "Hansen"
+    },
+    {
+      "_id": "5dc18440aa2e27b194d06871",
+      "mortale": true,
+      "costo_antidoto": "$2,568.59",
+      "immagine": "https://picsum.photos/200",
+      "minuti_per_morire": 20,
+      "colore": "green",
+      "nome_scopritore": "Jacobs",
+      "cognome_scopritore": "Cash"
+    },
+    {
+      "_id": "5dc18440029cf8dd8226bb37",
+      "mortale": true,
+      "costo_antidoto": "$1,596.49",
+      "immagine": "https://picsum.photos/200",
+      "minuti_per_morire": 33,
+      "colore": "brown",
+      "nome_scopritore": "Sophie",
+      "cognome_scopritore": "Burton"
+    },
+    {
+      "_id": "5dc18440fbf13c831f4d6875",
+      "mortale": false,
+      "costo_antidoto": "$2,182.96",
+      "immagine": "https://picsum.photos/200",
+      "minuti_per_morire": 35,
+      "colore": "green",
+      "nome_scopritore": "Garcia",
+      "cognome_scopritore": "Roman"
+    },
+    {
+      "_id": "5dc18440fdc841a74ebf20e0",
+      "mortale": true,
+      "costo_antidoto": "$3,918.08",
+      "immagine": "https://picsum.photos/200",
+      "minuti_per_morire": 33,
+      "colore": "brown",
+      "nome_scopritore": "Torres",
+      "cognome_scopritore": "Joyce"
+    },
+    {
+      "_id": "5dc18440a2ee79f642732c4a",
+      "mortale": true,
+      "costo_antidoto": "$2,247.59",
+      "immagine": "https://picsum.photos/200",
+      "minuti_per_morire": 33,
+      "colore": "green",
+      "nome_scopritore": "Janell",
+      "cognome_scopritore": "Davis"
+    }
+  ]
+}
